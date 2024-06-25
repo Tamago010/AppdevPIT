@@ -1,0 +1,16 @@
+.card {
+    border-radius: 10px;
+}
+
+.card-header {
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.btn {
+    margin-right: 5px;
+}
